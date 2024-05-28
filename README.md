@@ -1,16 +1,16 @@
 
-# Pure JavaScript website
+# Pure JavaScript website                                                                    ![README-fa](https://www.state.gov/wp-content/uploads/2018/08/ir-lgflag.gif)
 
 In this project, almost all the necessary skills to master JavaScript have been implemented in the form of a store with an admin panel.
 
 
 ## 📋 Table of Contents
 
-1. 🤖 [Introduction](https://github.com/meysam-gheitasi/purejs-app/tree/main#-introduction)
-2. ⚙️ [Tech Stack](https://github.com/meysam-gheitasi/purejs-app/tree/main#%EF%B8%8F-tech-stack)
-3. 🔋 [Features](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-features)
-4. 🤸 [Quick Start](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-quick-start)
-5. 🚀 [More]()
+1. 🤖 [Introduction](#-introduction)
+2. ⚙️ [Tech Stack](#%EF%B8%8F-tech-stack)
+3. 🔋 [Features](#-features)
+4. 🤸 [Quick Start](#-quick-start)
+5. 🚀 [More](#-more)
 ## 🤖 Introduction
 
 This project consists of 3 parts: a page for admin to create and edit limited products as well as display them sorted.

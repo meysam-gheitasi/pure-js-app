@@ -29,47 +29,47 @@ For each product by product ID, a dedicated page is created to edit the product 
 
 👉 On the admin page:
 
-    1. Product manufacturing with unique ID features and manufacturing date.
-    2. Displaying products created by elements created with JS.
-    3. sort the products created in two modes, the time of creation and the
+1. Product manufacturing with unique ID features and manufacturing date.
+2. Displaying products created by elements created with JS.
+3. sort the products created in two modes, the time of creation and the
        time of editing the products.
-    4. Search letter by letter among product names.
-    5. Existence of delete button, announcement of availability for each
+4. Search letter by letter among product names.
+5. Existence of delete button, announcement of availability for each
        product.
-    6. Save all changes in the local storage of the user's browser.
-    7. Linking the name of each product to its own page using ID.
+6. Save all changes in the local storage of the user's browser.
+7. Linking the name of each product to its own page using ID.
 
 👉 On the dedicated product editing page:
 
-    1. Displaying product information by taking the product ID from the URL of
+1. Displaying product information by taking the product ID from the URL of
        the created page or redirecting the user to the admin page if there is
        an invalid URL.
-    2. Displaying product information in pre-created elements in the HTML file.
-    3. Ability to edit and save all product information in real-time without
+2. Displaying product information in pre-created elements in the HTML file.
+3. Ability to edit and save all product information in real-time without
        pressing the save information button.
-    4. Real-time display of the last time the product was edited.
+4. Real-time display of the last time the product was edited.
 
 👉 On the store page:
 
-    1. Receiving products from local storage and displaying all products that 
+1. Receiving products from local storage and displaying all products that 
       are announced as available along with the default photo. In two display
       modes: browser mode in 2 columns and mobile mode in 1 column.
-    2. Static elements and dynamic data of product display, such as reactive 
+2. Static elements and dynamic data of product display, such as reactive 
        components, are added to a created element dev in the form of inner 
        HTML, and finally, they are added to a print element in the HTML file.
-    3. By selecting each product, it will be added to the shopping cart. And 
+3. By selecting each product, it will be added to the shopping cart. And 
        by choosing several times from each product, only the feature of the 
        number of that product in the shopping cart will increase.
-    4. Display the number of products in the shopping cart on the shopping 
+4. Display the number of products in the shopping cart on the shopping 
        cart icon on the store page.
-    5. Shopping cart information is stored in local storage.
-    6. By clicking on the shopping cart icon, it is possible to display and 
+5. Shopping cart information is stored in local storage.
+6. By clicking on the shopping cart icon, it is possible to display and 
        edit the number and delete individual or all products in the cart.
 ## 🤸 Quick Start
 
 Running the website online
 
-# [purejs-app.html](https://meysam-gheitasi.github.io/purejs-app/index.html)
+### [purejs-app.html](https://meysam-gheitasi.github.io/purejs-app/index.html)
 
 
 Cloning the Repository

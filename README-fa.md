@@ -4,11 +4,11 @@
 
 ## 📋 فهرست مطالب
 
-1. 🤖 [مقدمه](/tree/main#-introduction)
-2. ⚙️ [فناوری‌های مورد استفاده](#%EF%B8%8F-tech-stack)
-3. 🔋 [ویژگی‌ها](#ویژگی‌ها)
-4. 🤸 [شروع سریع](#-quick-start)
-5. 🚀 [بیشتر](#-بیشتر)
+1. 🤖 [مقدمه](https://github.com/meysam-gheitasi/purejs-app/tree/main#-introduction)
+2. ⚙️ [فناوری‌های مورد استفاده](https://github.com/meysam-gheitasi/purejs-app/tree/main#%EF%B8%8F-tech-stack)
+3. 🔋 [ویژگی‌ها](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-features)
+4. 🤸 [شروع سریع](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-quick-start)
+5. 🚀 [بیشتر](#)
 
 ## 🤖 مقدمه
 

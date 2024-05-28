@@ -1,4 +1,6 @@
-# Pure JavaScript website                                                                    
+# Pure JavaScript website 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
 [![README-fa](https://www.state.gov/wp-content/uploads/2018/08/ir-lgflag.gif)]([README-fa.md](https://github.com/meysam-gheitasi/purejs-app/edit/main/README.md))
 
 

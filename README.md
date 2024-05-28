@@ -6,11 +6,11 @@ In this project, almost all the necessary skills to master JavaScript have been 
 
 ## 📋 Table of Contents
 
-1. 🤖 Introduction
-2. ⚙️ Tech Stack
-3. 🔋 Features
-4. 🤸 Quick Start
-5. 🚀 More
+1. 🤖 [Introduction](https://github.com/meysam-gheitasi/purejs-app/tree/main#-introduction)
+2. ⚙️ [Tech Stack](https://github.com/meysam-gheitasi/purejs-app/tree/main#%EF%B8%8F-tech-stack)
+3. 🔋 [Features](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-features)
+4. 🤸 [Quick Start](https://github.com/meysam-gheitasi/purejs-app/tree/main?tab=readme-ov-file#-quick-start)
+5. 🚀 [More]()
 ## 🤖 Introduction
 
 This project consists of 3 parts: a page for admin to create and edit limited products as well as display them sorted.
@@ -69,7 +69,7 @@ For each product by product ID, a dedicated page is created to edit the product 
 
 Running the website online
 
-🔗[purejs-app](https://meysam-gheitasi.github.io/purejs-app/index.html)
+# [purejs-app.html](https://meysam-gheitasi.github.io/purejs-app/index.html)
 
 
 Cloning the Repository

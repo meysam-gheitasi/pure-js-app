@@ -1,5 +1,5 @@
 # Pure JavaScript website                                                                    
-[![README-fa](https://www.state.gov/wp-content/uploads/2018/08/ir-lgflag.gif)](README-fa.md)
+[![README-fa](https://www.state.gov/wp-content/uploads/2018/08/ir-lgflag.gif)]([README-fa.md](https://github.com/meysam-gheitasi/purejs-app/edit/main/README.md))
 
 
 In this project, almost all the necessary skills to master JavaScript have been implemented in the form of a store with an admin panel.

@@ -1,8 +1,8 @@
 # Pure JavaScript website 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-##[فارسی](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)
-### [![فارسی](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)](https://twitter.com/)
+##![فارسی](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)
+### ![فارسی](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)(https://twitter.com/)
 
 In this project, almost all the necessary skills to master JavaScript have been implemented in the form of a store with an admin panel.
 

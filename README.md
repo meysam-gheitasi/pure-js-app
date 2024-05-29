@@ -74,7 +74,7 @@ For each product by product ID, a dedicated page is created to edit the product 
 
 Running the website online
 
-### [web-app:pure-js-app](https://meysam-gheitasi.github.io/pure-js-app/)
+### [www.pure-js-app.html](https://meysam-gheitasi.github.io/pure-js-app/)
 
 
 Cloning the Repository

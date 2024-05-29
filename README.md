@@ -20,7 +20,7 @@ In this project, almost all the necessary skills to master JavaScript have been 
 1. 🤖 [Introduction](#-introduction)
 2. ⚙️ [Tech Stack](#%EF%B8%8F-tech-stack)
 3. 🔋 [Features](#-features)
-4. 🤸 [Demo And Quick Start](#-Demo-And-Quick-Start)
+4. 🤸 [Demo And Quick Start](#demo-and-quick-start)
 5. 🚀 [More](#-more)
 ## 🤖 Introduction
 
@@ -81,7 +81,7 @@ For each product by product ID, a dedicated page is created to edit the product 
 
 Running the website online
 
-### [www.pure-js-app.html](https://meysam-gheitasi.github.io/pure-js-app/)
+#### [www.pure-js-app.html](https://meysam-gheitasi.github.io/pure-js-app/)
 
 
 Cloning the Repository

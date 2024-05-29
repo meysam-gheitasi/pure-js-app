@@ -69,6 +69,7 @@
 ```bash
   git clone https://github.com/meysam-gheitasi/purejs-app.git
   cd purejs-app
+```
 
 ## 🚀 بیشتر
 

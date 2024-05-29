@@ -20,7 +20,7 @@ In this project, almost all the necessary skills to master JavaScript have been 
 1. 🤖 [Introduction](#-introduction)
 2. ⚙️ [Tech Stack](#%EF%B8%8F-tech-stack)
 3. 🔋 [Features](#-features)
-4. 🤸 [Run live or Quick Start](#-quick-start)
+4. 🤸 [Demo And Quick Start](#-Demo-And-Quick-Start)
 5. 🚀 [More](#-more)
 ## 🤖 Introduction
 
@@ -76,7 +76,8 @@ For each product by product ID, a dedicated page is created to edit the product 
 5. Shopping cart information is stored in local storage.
 6. By clicking on the shopping cart icon, it is possible to display and 
        edit the number and delete individual or all products in the cart.
-## 🤸 Quick Start
+   
+## 🤸Demo And Quick Start
 
 Running the website online
 

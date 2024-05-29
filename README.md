@@ -1,6 +1,14 @@
-# Pure JavaScript website 
+#<p align="center">
+![App Screenshot](https://raw.githubusercontent.com/meysam-gheitasi/pure-js-app/main/images/pure-js-app-hero.png)
+</p>
+<p align="center">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</p>
+<p align="center">
+# Pure JavaScript website 
+</p>
+
 
 ![فارس](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png)
 [فارسی](https://github.com/meysam-gheitasi/purejs-app/blob/main/README-fa.md)

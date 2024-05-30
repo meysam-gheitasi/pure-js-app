@@ -8,7 +8,7 @@
 
 
 
-[![ایران](https://img.shields.io/badge/Iran-🇮🇷)
+![ایران](https://img.shields.io/badge/Iran-🇮🇷)
 [فارسی](https://github.com/meysam-gheitasi/purejs-app/blob/main/README-fa.md)
 ### []()
 

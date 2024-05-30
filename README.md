@@ -8,7 +8,7 @@
 
 
 
-![فارس](https://hatscripts.github.io/circle-flags/flags/ir.svg) 
+![فارس]([https://hatscripts.github.io/circle-flags/flags/ir.svg](https://hatscripts.github.io/circle-flags/flags/ir.svg)) 
 [فارسی](https://github.com/meysam-gheitasi/purejs-app/blob/main/README-fa.md)
 ### []()
 

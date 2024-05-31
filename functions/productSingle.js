@@ -12,7 +12,7 @@ const productId = location.hash.substring(1)
 let result = getById(productId, 'products')
 
 // cheking existence of result
-!result && location.assign('../index.html')
+!result && location.assign('./')
 
 // call function to display product value
 displayValues(result)
@@ -40,7 +40,7 @@ deleteEl.addEventListener('click', ()=> {
     const text = "Should this product be removed ؟"
     if (confirm(text)) {
     remove(productId, 'products')
-    location.assign('../index.html')
+    location.assign('./')
     } esle {
     return
     }
@@ -55,7 +55,7 @@ window.addEventListener('storage', e => {
 
         result = getById(productId, 'products')
 
-        !result && location.assign('../index.html')
+        !result && location.assign('./')
 
         displayValues(result)
 

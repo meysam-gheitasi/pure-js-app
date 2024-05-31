@@ -40,7 +40,7 @@ deleteEl.addEventListener('click', ()=> {
     const text = "Should this product be removed ؟"
     if (confirm(text)) {
     remove(productId, 'products')
-    location.assign('/')
+    location.assign('./index.html')
     } esle {
     return
     }
@@ -55,7 +55,7 @@ window.addEventListener('storage', e => {
 
         result = getById(productId, 'products')
 
-        !result && location.assign('./createProducts.html')
+        !result && location.assign('./index.html')
 
         displayValues(result)
 

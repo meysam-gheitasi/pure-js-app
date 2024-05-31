@@ -40,7 +40,7 @@ deleteEl.addEventListener('click', ()=> {
     const text = "Should this product be removed ؟"
     if (confirm(text)) {
     remove(productId, 'products')
-    location.assign('./')
+    location.assign('../')
     }
 })
 

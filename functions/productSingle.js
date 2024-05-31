@@ -37,8 +37,13 @@ existEl.addEventListener('change', e => {
 
 // delete product and redairect to create product page
 deleteEl.addEventListener('click', ()=> {
+    const text = "Should this product be removed ؟"
+    if (confirm(text)) {
     remove(productId, 'products')
-    location.assign('./createProducts.html')
+    location.assign('./index.html')
+    } esle {
+    return
+    }
 })
 
 // Real-time display

@@ -12,7 +12,7 @@ const productId = location.hash.substring(1)
 let result = getById(productId, 'products')
 
 // cheking existence of result
-!result && location.assign('./')
+!result && location.assign('../')
 
 // call function to display product value
 displayValues(result)
@@ -53,7 +53,7 @@ window.addEventListener('storage', e => {
 
         result = getById(productId, 'products')
 
-        !result && location.assign('./')
+        !result && location.assign('../')
 
         displayValues(result)
 

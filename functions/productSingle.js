@@ -41,8 +41,6 @@ deleteEl.addEventListener('click', ()=> {
     if (confirm(text)) {
     remove(productId, 'products')
     location.assign('./')
-    } esle {
-    return
     }
 })
 
